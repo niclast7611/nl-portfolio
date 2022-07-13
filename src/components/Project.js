@@ -53,7 +53,7 @@ const Project = () => {
                 <ReadMore>
                   I created this Portfolio to show off my front end skills and to display all my projects in one convienient site. I aimed for a minimal and modern website. I created this project from scratch and really enjoyed the progress. I will forever modify and change this website as long as I am a developer.
                 </ReadMore>
-                  <a className="link" target= '_blank' rel="noreferrer" href="https://github.com/niclast7611/nic-last-portfolio">View Repo</a>
+                  <a className="link" target= '_blank' rel="noreferrer" href="https://github.com/niclast7611/nl-portfolio">View Repo</a>
               </p>
               <div id='lang-tags'>
                 <span id='tag'>JavaScript</span>
