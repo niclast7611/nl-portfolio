@@ -16,4 +16,4 @@ I add several dependencies to my project in hopes of adding some cool features t
 
 You can clone the repo to your computer and run a `$yarn start` to see the live server.
 
-It is also deployed through Github Pages and the link is ...
+It is also deployed through Github Pages and the link is https://niclast7611.github.io/nl-portfolio/ 
