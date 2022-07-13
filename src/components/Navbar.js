@@ -1,8 +1,6 @@
 import React, { useState } from 'react'
 import {Link} from 'react-scroll'
 import { animateScroll as scroll } from 'react-scroll'
-import { GiHamburgerMenu } from 'react-icons/gi'
-import { AiOutlineCloseCircle } from 'react-icons/ai'
 
 import './Navbar.css'
 

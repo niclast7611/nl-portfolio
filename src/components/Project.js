@@ -28,7 +28,7 @@ const Project = () => {
         <div id='project-container'>
           <div id='project'>
             <div id='project-body'>
-             <img id='project-image' src="/images/piglatin-photo.png" alt="Piglatin application"/>
+            <img id="project-image" alt='Piglatin App' src={process.env.PUBLIC_URL + "/piglatin-photo.png"} />
               <h4 className='project-title'>Pig Latin Translator</h4>
              
                <p id='project-p'>
@@ -47,7 +47,7 @@ const Project = () => {
           </div>
           <div id='project'>
             <div id='project-body'>
-              <img id='project-image' src="/images/portfolio.png" alt=""/>
+            <img id="project-image" alt='This Portfolio' src={process.env.PUBLIC_URL + "/portfolio.png"} />
               <h4 className='project-title'>This Portfolio</h4>
               <p id='project-p'>
                 <ReadMore>

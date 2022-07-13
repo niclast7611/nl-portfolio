@@ -14,7 +14,7 @@ class About extends Component {
               </p>
             </div>
             <div id= 'future-image'>
-          <img id='pic-of-me'src="/images/donuts.jpeg" alt="Nic Last"/>
+            <img id="pic-of-me" alt='Nic Last' src={process.env.PUBLIC_URL + "/donuts.jpeg"} />
           </div>
         </div>
       </div>

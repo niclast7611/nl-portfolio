@@ -1,7 +1,7 @@
 import { HiOutlineMailOpen } from 'react-icons/hi';
 import { MdLocationOn } from 'react-icons/md';
 import { FaPhoneAlt } from 'react-icons/fa';
-import emailjs, { send } from '@emailjs/browser';
+import emailjs from '@emailjs/browser';
 
 import './Contact.css'
 
