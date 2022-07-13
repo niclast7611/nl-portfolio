@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://niclast7611.github.io/my-portfolio",
+  "homepage": "https://niclast7611.github.io/nl-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
