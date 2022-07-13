@@ -1,0 +1,68 @@
+#ss-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 6% 5% 2% 5%;
+  }
+  
+  #ss-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 2%;
+  }
+  
+  #ss-icons {
+    width: 100%;
+    margin: 5%;
+    margin-bottom: 0;
+    color: white;
+    font-size: 85px
+  }
+  
+  .logo-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 32%;
+    margin-bottom: 2%;
+    text-align: center;
+  }
+  
+  #lang-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 409.5px;
+  }
+  
+  #languages {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 23.4px;
+    width: 800px
+  }
+
+  label {
+    font-size: 30px;
+    margin-top: 0.8%;
+    color: white;
+    letter-spacing: 1px;
+  }
+
+  .ss-title{
+    padding-bottom: 10px;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+    color: white;
+    border-bottom: 2px solid #BC4123;
+  }
