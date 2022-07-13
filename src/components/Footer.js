@@ -14,8 +14,8 @@ class Footer extends Component {
             <p id = 'footer-p'><span><FaRegCopyright id = 'copyright'/></span> My Portfolio - Nic Last 2022</p>
           </div>
           <div className='link-icons'>
-           <a target='_blank' href="https://github.com/niclast7611"><AiFillGithub id = 'github'/></a>
-           <a target='_blank' href="https://www.linkedin.com/in/nicolas-last-095099239/"><AiFillLinkedin id = 'linkedin'/></a>
+           <a target='_blank' rel="noreferrer" href="https://github.com/niclast7611"><AiFillGithub id = 'github'/></a>
+           <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/nicolas-last-095099239/"><AiFillLinkedin id = 'linkedin'/></a>
           
           </div>
         </div>
