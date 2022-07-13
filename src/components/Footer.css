@@ -1,0 +1,38 @@
+footer{
+    width: 100%;
+    background-color: #07101f;
+    position: absolute;
+  }
+
+  #footer-container{
+    height: 100%;
+    display: block;
+    justify-content:center;
+    align-items:center;
+    padding: auto;
+    padding-top: 2.5rem;
+    text-align: center; 
+  }
+
+  .copyright{
+    color: white; 
+  }
+  
+  .link-icons{
+    color: white;
+    font-size: 35px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+
+  #github{
+    margin-right: 8px;
+  }
+
+#footer-p{
+    line-height: 13px;
+}
+
+#copyright{
+    font-size: 13px;
+}
